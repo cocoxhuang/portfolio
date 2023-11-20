@@ -1,1 +1,4 @@
-# portfolio
+# Data Scientist
+
+### Education
+Mathematics, PhD
