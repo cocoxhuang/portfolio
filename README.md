@@ -13,7 +13,7 @@
 
 ## Work Experience
 **Adjunct Professor @ Hunter College (_August 2020 - Present_)**
-- Instructor for courses including Statistics and Linear Algebra. Materials include experimental design, hypothesis test, dimension reduction, data science application, and Python demonstrations. An [example](https://github.com/cocoxhuang/STAT213/blob/main/chap10%20Hypothesis%20Testing%20Using%20a%20Single%20Sample.ipynb).
+- Instructor for courses including Statistics and Linear Algebra. Materials include experimental design, hypothesis test, dimension reduction, data science application, and [Python demonstrations](https://github.com/cocoxhuang/STAT213). An [example](https://github.com/cocoxhuang/STAT213/blob/main/chap10%20Hypothesis%20Testing%20Using%20a%20Single%20Sample.ipynb).
 
 **Index Research Intern @ Nasdaq (_June 2016 - August 2016_)**
 - Provided support to internal cross-functional teams and external ETF fund managers through data collection, statistical analysis, and modeling, with a primary focus on summarizing index behaviors, including summary statistics and linear regression.
