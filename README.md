@@ -1,10 +1,13 @@
 
-### Education
+## Education
 - Ph.D, Mathematics | City University of New York (2018-present)
 - B.S., Mathematics | City University of New York (2013-2017)
 - Mathematics,  | City University of New York (2013-2017)
 
-### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+## Technical Skills: 
+- Python, SQL, R, scikit-learn, PyTorch, Torch_geometric, Pandas, Matplotlib, Seaborn, MATLAB
+## Techniques:
+- Experimental Design, A/B test, Regression, Clustering, Pattern Recognition, Recommender System
 
 ## Work Experience
 **Adjunct Professor @ Hunter College (_August 2020 - Present_)**
