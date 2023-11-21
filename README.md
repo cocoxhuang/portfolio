@@ -6,6 +6,7 @@
 
 ## Technical Skills: 
 - Python, SQL, R, scikit-learn, PyTorch, Torch_geometric, Pandas, Matplotlib, Seaborn, MATLAB
+
 ## Techniques:
 - Experimental Design, A/B test, Regression, Clustering, Pattern Recognition, Recommender System
 
