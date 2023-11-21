@@ -20,7 +20,8 @@
 
 ## Projects
 ### GNN Predictive Modelling and Graph Data Mining
+[Interactive Network]()
 
 Proposed a novel model integrating **graph discovery data mining** techniques and **Graph Neural Networks(GNNs)** to overcome limitations in graph structures for specific modeling tasks. By incorporating graph discovery models, the need for domain expertise in graph generation was also eliminated, resulting in significant time and effort savings compared to manual graph creation.
 
-![Network discovered from data](/assets/html/glasso_graph.html)
+![Network discovered from data](/assets/html/glasso_graph.png)
