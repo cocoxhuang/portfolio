@@ -8,7 +8,7 @@
 
 ## Work Experience
 **Adjunct Professor @ Hunter College (_August 2020 - Present_)**
-- Instructor for courses including Statistics, Linear Algebra. Materials include experimental design, hypothesis test, dimension reduction, data science application, and Python demonstrations.
+- Instructor for courses including Statistics and Linear Algebra. Materials include experimental design, hypothesis test, dimension reduction, data science application, and Python demonstrations. An [example](https://github.com/cocoxhuang/STAT213/blob/main/chap10%20Hypothesis%20Testing%20Using%20a%20Single%20Sample.ipynb).
 
 **Index Research Intern @ Nasdaq (_June 2016 - August 2016_)**
 - Provided support to internal cross-functional teams and external ETF fund managers through data collection, statistical analysis, and modeling, with a primary focus on summarizing index behaviors, including summary statistics and linear regression.
@@ -20,7 +20,7 @@
 
 ## Projects
 ### GNN Predictive Modelling and Graph Data Mining
-[Interactive Network]()
+[Interactive Network](https://cocoxhuang.github.io/Plotly_dem/)
 
 Proposed a novel model integrating **graph discovery data mining** techniques and **Graph Neural Networks(GNNs)** to overcome limitations in graph structures for specific modeling tasks. By incorporating graph discovery models, the need for domain expertise in graph generation was also eliminated, resulting in significant time and effort savings compared to manual graph creation.
 
