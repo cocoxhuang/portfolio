@@ -25,8 +25,13 @@
 
 ## Projects
 ### GNN Predictive Modelling and Graph Data Mining
+- Proposed a novel model integrating **graph discovery data mining** techniques and **Graph Neural Networks(GNNs)** to overcome limitations in graph structures for specific modeling tasks. By incorporating graph discovery models, the need for domain expertise in graph generation was also eliminated, resulting in significant time and effort savings compared to manual graph creation.
+- It demonstrated a minimum of 15% improvement of the baseline Light Gradient Boosting Machine (LightGBM) and Neural Net models in a short-term intraday **Realized Volatility (RV)** prediction task by using 150 million records Limit Order Book (LOB) and trade data.
+
 {% include glasso_graph.html %}
+This is a network discovered using the [Glasso algorithm](https://jerryfriedman.su.domains/ftp/glasso-bio.pdf) from the [Kaggle Optiver Realized Volatility Prediction](https://www.kaggle.com/competitions/optiver-realized-volatility-prediction) dataset.
 
-Proposed a novel model integrating **graph discovery data mining** techniques and **Graph Neural Networks(GNNs)** to overcome limitations in graph structures for specific modeling tasks. By incorporating graph discovery models, the need for domain expertise in graph generation was also eliminated, resulting in significant time and effort savings compared to manual graph creation.
+### Graph Discovery Python Library
+- Created [SmoothLaplacian](https://github.com/cocoxhuang/Smooth-Laplacian) Python network analysis library, facilitating efficient underlying network discovery of diverse data. This tool streamlined the process of extracting network features from complex datasets.
+- It is a Python implementation of [Learning Laplacian Matrix in Smooth Graph Signal Representations](https://arxiv.org/pdf/1406.7842.pdf)
 
-![Network discovered from data](./assets/img/glasso_graph.png =100x100)
