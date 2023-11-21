@@ -38,7 +38,8 @@ This is a network discovered using the [Glasso algorithm](https://jerryfriedman.
 ### Recommender System for Advertising
 - Developed a Graph Neural Networks (GNNs) based recommender system connecting businesses with social media influencers by learning various aspects of their social media behaviors such as text caption, image, and the social relationship among influencers and brands.
 - Specifically, the model obtained the representations of businesses and social media influencers by Light Graph Convolutional Networks (LightGCNs).
-- Extracted features from social media user behaviors by employing pretrained Natural Language Processing (NLP) and computer vision (CV) models from a dataset comprising 50GB pool of raw user-profiles and posts collected over 1427 businesses, and 16774 influencers.
+- Collected and cleaned a dataset comprising 50GB pool of raw user-profiles and posts collected over 1427 businesses, and 16774 influencers.
+- Extracted features from social media user behaviors by employing pretrained Natural Language Processing (NLP) and computer vision (CV) models.
 
 {% include Brand_Influerncer_Network.html %}
 This is an interactive network consisting of selected brands and influencers.
