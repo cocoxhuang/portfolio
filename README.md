@@ -42,6 +42,11 @@ This is a network discovered using the [Glasso algorithm](https://jerryfriedman.
 - Extracted features from social media user behaviors by employing pretrained Natural Language Processing (NLP) and computer vision (CV) models.
 
 ![](./assets/img/brand_influencer_network.png)
-This is a network consisting of selected brands and influencers. For an interactive version of this network, see [here](https://www.dropbox.com/s/r9vyj12ymbib1m9/Brand_Influerncer_Network.html?dl=0).
+This is a network consisting of selected brands and influencers from our dataset. For an interactive version of this network, see [here](https://www.dropbox.com/s/r9vyj12ymbib1m9/Brand_Influerncer_Network.html?dl=0).
+
+### Estimation and Optimization of Time Series Models
+- Used a Simulated Minimum Distance (SMD) estimator based on the Wasserstein distance, Wasserstein Distance Estimator (WDE), between the model-simulated distribution and the empirical distribution.
+- The method resolved common challenges posed by intractable analytical likelihood functions by implementing the Wasserstein distance estimator for complicated time series models, ensuring accurate estimations where Maximum Likelihood Estimator (MLE) fell short.
+- The method outperformed existing estimation methods, both in terms of accuracy and computational time (2 - 100x faster). Models estimated include AR(1) model, ARMA(2, 2)-ARCH(2), random walks with a structural break and 10 years S&P 500 data.
 
 
