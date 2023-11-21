@@ -1,8 +1,8 @@
 
 ## Education
 - Ph.D, Mathematics | City University of New York (2018-present)
-- B.S., Mathematics | City University of New York (2013-2017)
-- Mathematics,  | City University of New York (2013-2017)
+- B.S., Mathematics | University of Rochester (2013-2017)
+- B.A., Financial Economics  | University of Rochester (2013-2017)
 
 ## Technical Skills: 
 - Python, SQL, R, scikit-learn, PyTorch, Torch_geometric, Pandas, Matplotlib, Seaborn, MATLAB
