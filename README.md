@@ -6,7 +6,7 @@
 - B.A., Financial Economics  | University of Rochester (2013-2017)
 
 ## Technical Skills: 
-- Python, SQL, R, scikit-learn, PyTorch, Torch_geometric, Pandas, Matplotlib, Seaborn, MATLAB
+- Python, SQL, R, scikit-learn, PyTorch, Torch_geometric, Pandas, MATLAB
 
 ## Projects
 ### GNN Predictive Modelling and Graph Data Mining
