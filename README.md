@@ -36,7 +36,7 @@ This is a network discovered using the [Glasso algorithm](https://jerryfriedman.
 - It is a Python implementation of [Learning Laplacian Matrix in Smooth Graph Signal Representations](https://arxiv.org/pdf/1406.7842.pdf)
 
 ### Recommender System for Advertising
-- Developed a **Graph Neural Networks (GNNs) based recommender system** connecting businesses with social media influencers by learning various aspects of their social media behaviors such as **text caption, image, and the social relationship** among influencers and brands.
+- Developed a **Graph Neural Networks (GNNs) based recommender system** connecting **businesses with social media influencers** by learning various aspects of their social media behaviors such as **text caption, image, and the social relationship** among influencers and brands.
 - Specifically, the model obtained the representations of businesses and social media influencers by Light Graph Convolutional Networks (LightGCNs).
 - Collected and cleaned a dataset comprising 50GB pool of raw user profiles and posts collected from over 1427 businesses, and 16774 influencers.
 - Extracted features from social media user behaviors by employing pretrained Natural Language Processing (**NLP**) and computer vision (**CV**) models.
@@ -47,6 +47,6 @@ This is a network consisting of selected brands and influencers from our dataset
 ### Estimation and Optimization of Time Series Models
 - Used a Simulated Minimum Distance (SMD) estimator based on the Wasserstein distance, **Wasserstein Distance Estimator (WDE)**, between the model-simulated distribution and the empirical distribution.
 - The method resolved common challenges posed by intractable analytical likelihood functions by implementing the Wasserstein distance estimator for complicated time series models, ensuring accurate estimations where Maximum Likelihood Estimator (MLE) fell short.
-- The method outperformed existing estimation methods, both in terms of accuracy and computational time (2 - 100x faster). Models estimated include AR(1) model, ARMA(2, 2)-ARCH(2), random walks with a structural break and 10 years S&P 500 data.
+- The method outperformed existing estimation methods, both in terms of accuracy and computational time (**2 - 100x faster**). Models estimated include AR(1) model, ARMA(2, 2)-ARCH(2), random walks with a structural break and 10 years S&P 500 data.
 
 
