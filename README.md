@@ -27,7 +27,10 @@ This is a network discovered using the [Glasso algorithm](https://jerryfriedman.
 - Extracted features from social media user behaviors by employing pretrained Natural Language Processing (**NLP**) and computer vision (**CV**) models.
 
 ![](./assets/img/brand_influencer_network.png)
-This is a network consisting of selected brands and influencers from our dataset. For an interactive version of this network, see [here](https://www.dropbox.com/s/r9vyj12ymbib1m9/Brand_Influerncer_Network.html?dl=0).
+This is a network consisting of selected brands and influencers from our dataset. [This is an interactive version of this network]([https://www.dropbox.com/s/r9vyj12ymbib1m9/Brand_Influerncer_Network.html?dl=0](https://cocoxhuang.github.io/Home/images/Brand_Influerncer_Network.html)).
+
+### Latent Stock Network Discovery Dashboard
+- Produced the [**stock network discovery dashboard**](https://stock-network-discovery.streamlit.app/) that allows one to discover the latent network within any selection of stocks during any period of time.
 
 ### Estimation and Optimization of Time Series Models
 - Used a Simulated Minimum Distance (SMD) estimator based on the Wasserstein distance, **Wasserstein Distance Estimator (WDE)**, between the model-simulated distribution and the empirical distribution.
